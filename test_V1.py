@@ -1,8 +1,9 @@
 import argostranslate.translate
 import time
 
+
 from_lang = "en"
-#to_lang = "ar"
+to_lang = "ar"
 
 subs = []
 
